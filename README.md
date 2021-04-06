@@ -11,3 +11,6 @@ Step 2 - Install openvpn on companion computer and save its .ovpn file. Create a
 Step 3 - Install openvpn client on Ground Control Station (GCS) laptop or computer. In my case my laptop has Windows 10 and Mission Planner as GCS application. Use GCS .ovpn file to connect vpn on laptop.
 
 Step 4 - Install mavproxy on companion computer and run the script with IP Address (VPN) of GCS for creating mavlink. Select udp pn GCS application at laptop to connect to companion computer on drone over internet. You can even take ssh access of companion computer and Flight Controller Unit (FCU) like Beagle Bone Blue which is Linux based.
+
+Detailed steps with screenshots of each action will be uploaded soon !!!
+
